@@ -1,6 +1,8 @@
 # NIPS 2017: Non-targeted Adversarial Attack submission
 This project is final submission on kaggle competition [NIPS 2017: Non-targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-non-targeted-adversarial-attack) by team ["erko" (Yerkebulan Berdibekov)](https://www.kaggle.com/erkowa)
 
+*Description of idea here*
+
 Requirements:
 
 Configure on host OS CUDA & cuDNN 6, docker-ce, nvidia-docker.
