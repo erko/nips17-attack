@@ -11,7 +11,7 @@ Configure on host OS CUDA & cuDNN 6, docker-ce, nvidia-docker.
 * Inside of developement toolkit prepare sample_attacks, sample_targeted_attacks, sample_defenses by downloading checkpoints. Run `sh download_checkpoints.sh` in this folders;
 * Put this project in *new folder* in sample_attacks;
 * In this *new folder*, download checkpoint files: run **`sh download_checkpoints.sh`**;
-* Run `sh run_attacks_and_defenses.sh`;
+* Run `sh run_attacks_and_defenses.sh`, edit & append argument `--gpu` in line executing python script;
 * Compare this attack to other attacks in `accuracy_on_attacks.csv` file in resulting output folder.
 
 Possible problems: 
